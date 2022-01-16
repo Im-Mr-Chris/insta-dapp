@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/src/public/images/icon.png" width="150">
 </p>
-<h1 align="center">Surfable</h1>
+<h1 align="center">InstaDapp</h1>
 <p>
   <a href="/LICENSE">
     <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache 2.0-yellow.svg" target="_blank" />
@@ -16,7 +16,7 @@
 
 Install any website as an app for a quick access 🖥️
 
-Surfable.app is a website to be able to install any website as an application.
+InstaDapp.app is a website to be able to install any website as an application.
 It is built with `Express.js` and uses `google-play-scraper` package to search in Google Play Store and to get the metadata.
 
 ### 👉 [Get started](https://surfable.app)
@@ -98,25 +98,6 @@ Since this project scraps data from Google Play, the number of queries are limit
 docker build . -t surfable
 docker run -p 3000:80 surfable
 ```
-
-## Authors
-
-👤 **Sandoche ADITTANE & Farbod SARAF**
-
-* Twitter: [@farbodsaraf](https://twitter.com/farbodsaraf)
-* Github: [@sandoche](https://github.com/sandoche)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-## ⭐️ Show your support
-
-Give a ⭐️ if this project helped you!
-
-## ☕️ Buy me a coffee 
-
-If you like this project, feel free to donate: https://www.buymeacoffee.com/surfable
 
 ## 📝 License
 
